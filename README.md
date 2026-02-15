@@ -1,5 +1,14 @@
-## Hi there 👋
+###
 
+<h2 align="center">Hi 👋! I'm Huy</h2>
+
+###
+
+<h3 align="center">AI engineer</h3>
+
+###
+
+I’m currently learning **CV, NLP, LLMs**
 <!--
 **tqhuy911/tqhuy911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
