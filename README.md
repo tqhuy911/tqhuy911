@@ -1,6 +1,6 @@
 ###
 
-<h2 align="center">Hi 👋! I'm Huy</h2>
+<h2 align="center">Hi 👋! I'm Ngoc</h2>
 
 ###
 
